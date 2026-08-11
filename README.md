@@ -19,7 +19,7 @@ paklex-ai/
 │   └── index.html            ← Dark Judicial web frontend
 │
 ├── data/
-│   └── ppc.pdf               ← ⬅ PUT YOUR PDF HERE
+│   └── Pak_penal_code.pdf              
 │
 ├── vector_store/             ← Auto-created by 01_ingest.ipynb
 │
