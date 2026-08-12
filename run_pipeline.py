@@ -3,7 +3,7 @@ import sys
 
 # Note the "notebooks/" folder path here!
 files_to_run = [
-   "notebooks/01_ingest.ipynb",
+    "notebooks/01_ingest.ipynb",
     "notebooks/02_rag_engine.ipynb",
     "notebooks/03_app.ipynb"
 ]
